@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "core.js": "3.12.1",
+        "core-js": "3.12.1",
         "classlist.js": "1.1.20150312",
         "systemjs": "6.9.0",
         "bootstrap": "4.6.0"
